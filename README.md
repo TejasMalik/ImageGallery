@@ -1,4 +1,4 @@
-# Starter files for my Image Search app tutorial on YouTube.
+# Starter files for my Image Search app.
 
 **USAGE**
 
